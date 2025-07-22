@@ -1,0 +1,402 @@
+[
+  {
+    "title": "NASA confirms existence of water on the Moon",
+    "text": "Scientists have found water molecules on the sunlit surface of the Moon.",
+    "expected": false
+  },
+  {
+    "title": "Bill Gates buys the Moon to create a tech colony",
+    "text": "According to a viral tweet, Bill Gates plans to build a city on the Moon.",
+    "expected": true
+  },
+  {
+    "title": "WHO declares end of COVID-19 pandemic",
+    "text": "The World Health Organization officially declared the end of the pandemic.",
+    "expected": false
+  },
+  {
+    "title": "5G towers spreading COVID-19 in small towns",
+    "text": "Conspiracy theorists claim 5G technology causes the coronavirus.",
+    "expected": true
+  },
+  {
+    "title": "Researchers develop AI to detect cancer earlier",
+    "text": "A new artificial intelligence tool helps doctors detect cancer with higher accuracy.",
+    "expected": false
+  },
+  {
+    "title": "Eating garlic cures cancer, says new TikTok trend",
+    "text": "A viral TikTok video claims raw garlic can eliminate tumors.",
+    "expected": true
+  },
+  {
+    "title": "Electric vehicles outsell gasoline cars in Norway",
+    "text": "EVs now represent over 60% of all new car sales in Norway.",
+    "expected": false
+  },
+  {
+    "title": "Aliens spotted shopping in New York",
+    "text": "Facebook users post photos of 'aliens' buying groceries in Manhattan.",
+    "expected": true
+  },
+  {
+    "title": "Amazon rainforest losing biodiversity at alarming rate",
+    "text": "Scientists report major losses in species due to deforestation.",
+    "expected": false
+  },
+  {
+    "title": "Drinking bleach can purify your blood",
+    "text": "An Instagram post claims small doses of bleach improve immunity.",
+    "expected": true
+  },
+  {
+    "title": "UN votes for global plastic treaty",
+    "text": "Nations agree to draft a legally binding treaty to reduce plastic waste.",
+    "expected": false
+  },
+  {
+    "title": "Tom Hanks is a robot created by Hollywood elites",
+    "text": "A YouTube channel claims Tom Hanks was never human.",
+    "expected": true
+  },
+  {
+    "title": "Renewable energy jobs surpass oil industry in US",
+    "text": "Green energy jobs have outnumbered oil sector employment for the first time.",
+    "expected": false
+  },
+  {
+    "title": "Vaccines implant microchips to control people",
+    "text": "A viral tweet says COVID vaccines include 5G microchips.",
+    "expected": true
+  },
+  {
+    "title": "Coral reefs recovering thanks to conservation efforts",
+    "text": "Marine biologists observe new growth in previously dead reef zones.",
+    "expected": false
+  },
+  {
+    "title": "Scientists find dragon eggs in Iceland",
+    "text": "An article claims that baby dragons hatched near a volcano.",
+    "expected": true
+  },
+  {
+    "title": "Google announces quantum computing breakthrough",
+    "text": "Quantum supremacy achieved in solving complex problems.",
+    "expected": false
+  },
+  {
+    "title": "Dinosaurs found alive in Congo jungle",
+    "text": "A fringe blog says a T-Rex was spotted by locals in Africa.",
+    "expected": true
+  },
+  {
+    "title": "Clean air laws reduce asthma rates in children",
+    "text": "Studies show lower pollution correlates with improved respiratory health.",
+    "expected": false
+  },
+  {
+    "title": "Lizard people run the world governments",
+    "text": "Reddit users claim politicians are shapeshifting reptilians.",
+    "expected": true
+  },
+  {
+    "title": "Antarctica melting faster than expected, researchers warn",
+    "text": "Ice loss has tripled in the last decade according to NASA.",
+    "expected": false
+  },
+  {
+    "title": "Cats are secretly spies for the government",
+    "text": "TikTok trend claims cats report your activities to secret agencies.",
+    "expected": true
+  },
+  {
+    "title": "World food prices fall after bumper crop season",
+    "text": "Reports show decreased global food prices due to high yields.",
+    "expected": false
+  },
+  {
+    "title": "North Korea lands first man on the Sun",
+    "text": "A tabloid claims a North Korean astronaut landed on the Sun at night.",
+    "expected": true
+  },
+  {
+    "title": "Medical breakthrough: bionic limbs controlled by thoughts",
+    "text": "New prosthetics allow movement through neural interfaces.",
+    "expected": false
+  },
+  {
+    "title": "Chocolate milk comes from brown cows",
+    "text": "A viral post claims farmers get chocolate milk directly from brown cows.",
+    "expected": true
+  },
+  {
+    "title": "Satellites detect methane leaks from oil fields",
+    "text": "High-resolution data exposes pollution hotspots across continents.",
+    "expected": false
+  },
+  {
+    "title": "Wearing tin foil hats prevents mind control",
+    "text": "An online article claims aluminum hats stop government signals.",
+    "expected": true
+  },
+  {
+    "title": "COVID booster shots reduce hospitalization risk",
+    "text": "New research shows effectiveness of updated vaccines.",
+    "expected": false
+  },
+  {
+    "title": "Earth is flat and NASA hides the truth",
+    "text": "Influencers say space travel is fake and Earth has no curve.",
+    "expected": true
+  },
+  {
+    "title": "Gene editing reverses rare genetic disorder",
+    "text": "Scientists use CRISPR to correct mutations in trial patients.",
+    "expected": false
+  },
+  {
+    "title": "Pyramids built by time travelers",
+    "text": "A fringe website claims ancient aliens helped build Egypt’s pyramids.",
+    "expected": true
+  },
+  {
+    "title": "Mars rover discovers organic molecules in rocks",
+    "text": "Curiosity rover finds signs of possible ancient microbial life.",
+    "expected": false
+  },
+  {
+    "title": "Bill Gates owns all American farmland",
+    "text": "Facebook rumor says Gates is monopolizing food production.",
+    "expected": true
+  },
+  {
+    "title": "Ocean cleanup project removes tons of plastic",
+    "text": "Innovative tech collects waste from Pacific garbage patch.",
+    "expected": false
+  },
+  {
+    "title": "Vaccines cause autism in children",
+    "text": "A discredited study resurfaces claiming a link between vaccines and autism.",
+    "expected": true
+  },
+  {
+    "title": "Scientists detect gravitational waves from colliding black holes",
+    "text": "Breakthrough confirms Einstein’s predictions on spacetime ripples.",
+    "expected": false
+  },
+  {
+    "title": "Eating ice cream daily leads to immortality",
+    "text": "Instagram influencers swear by a diet of only ice cream for long life.",
+    "expected": true
+  },
+  {
+    "title": "New battery tech charges electric cars in 5 minutes",
+    "text": "Engineers develop ultra-fast-charging lithium cells.",
+    "expected": false
+  },
+  {
+    "title": "Earth's core has stopped spinning",
+    "text": "A satirical article claims the Earth's core is now stationary.",
+    "expected": true
+  },
+  {
+    "title": "La NASA confirma que el Sol se apagará en 2026",
+    "text": "Una declaración oficial indica que el Sol dejará de emitir luz en menos de dos años.",
+    "expected": true
+  },
+  {
+    "title": "Científicos afirman que el agua con limón cura el cáncer",
+    "text": "Un estudio no publicado asegura que beber agua con limón elimina células cancerígenas en tres semanas.",
+    "expected": true
+  },
+  {
+    "title": "Científicos afirman que el agua con limón cura el cáncer",
+    "text": "Un estudio no publicado asegura que beber agua con limón elimina células cancerígenas en tres semanas.",
+    "expected": true
+  },
+  {
+    "title": "Descubren nueva especie de rana en la Amazonía",
+    "text": "Científicos identificaron una nueva especie de rana con colores brillantes y comportamiento nocturno.",
+    "expected": false
+  },
+  {
+    "title": "El 5G causa enfermedades graves, según estudios secretos",
+    "text": "Documentos filtrados muestran relación entre tecnología 5G y enfermedades neurodegenerativas.",
+    "expected": true
+  },
+  {
+    "title": "Inflación en América Latina disminuye por segundo trimestre consecutivo",
+    "text": "Los indicadores económicos muestran una leve recuperación tras las políticas fiscales aplicadas.",
+    "expected": false
+  },
+  {
+    "title": "Inflación en América Latina disminuye por segundo trimestre consecutivo",
+    "text": "Los indicadores económicos muestran una leve recuperación tras las políticas fiscales aplicadas.",
+    "expected": false
+  },
+  {
+    "title": "Descubren nueva especie de rana en la Amazonía",
+    "text": "Científicos identificaron una nueva especie de rana con colores brillantes y comportamiento nocturno.",
+    "expected": false
+  },
+  {
+    "title": "El gobierno planea implantar chips en las vacunas",
+    "text": "Se filtró que las nuevas vacunas incluirán microchips para controlar a la población.",
+    "expected": true
+  },
+  {
+    "title": "Descubren nueva especie de rana en la Amazonía",
+    "text": "Científicos identificaron una nueva especie de rana con colores brillantes y comportamiento nocturno.",
+    "expected": false
+  },
+  {
+    "title": "Ecuador y Perú refuerzan cooperación en seguridad fronteriza",
+    "text": "Ambos países acordaron operativos conjuntos para prevenir el contrabando y otros delitos.",
+    "expected": false
+  },
+  {
+    "title": "Beber cloro es recomendado por expertos para purificar el cuerpo",
+    "text": "Un grupo de expertos sugiere que el cloro elimina impurezas y virus del cuerpo humano.",
+    "expected": true
+  },
+  {
+    "title": "La NASA confirma que el Sol se apagará en 2026",
+    "text": "Una declaración oficial indica que el Sol dejará de emitir luz en menos de dos años.",
+    "expected": true
+  },
+  {
+    "title": "Beber cloro es recomendado por expertos para purificar el cuerpo",
+    "text": "Un grupo de expertos sugiere que el cloro elimina impurezas y virus del cuerpo humano.",
+    "expected": true
+  },
+  {
+    "title": "El 5G causa enfermedades graves, según estudios secretos",
+    "text": "Documentos filtrados muestran relación entre tecnología 5G y enfermedades neurodegenerativas.",
+    "expected": true
+  },
+  {
+    "title": "Científicos afirman que el agua con limón cura el cáncer",
+    "text": "Un estudio no publicado asegura que beber agua con limón elimina células cancerígenas en tres semanas.",
+    "expected": true
+  },
+  {
+    "title": "Lanzan campaña global para reducir el uso de plásticos de un solo uso",
+    "text": "Organizaciones ecologistas y gobiernos promueven alternativas sostenibles al plástico convencional.",
+    "expected": false
+  },
+  {
+    "title": "Científicos afirman que el agua con limón cura el cáncer",
+    "text": "Un estudio no publicado asegura que beber agua con limón elimina células cancerígenas en tres semanas.",
+    "expected": true
+  },
+  {
+    "title": "La NASA confirma que el Sol se apagará en 2026",
+    "text": "Una declaración oficial indica que el Sol dejará de emitir luz en menos de dos años.",
+    "expected": true
+  },
+  {
+    "title": "Beber cloro es recomendado por expertos para purificar el cuerpo",
+    "text": "Un grupo de expertos sugiere que el cloro elimina impurezas y virus del cuerpo humano.",
+    "expected": true
+  },
+  {
+    "title": "Ecuador y Perú refuerzan cooperación en seguridad fronteriza",
+    "text": "Ambos países acordaron operativos conjuntos para prevenir el contrabando y otros delitos.",
+    "expected": false
+  },
+  {
+    "title": "El gobierno planea implantar chips en las vacunas",
+    "text": "Se filtró que las nuevas vacunas incluirán microchips para controlar a la población.",
+    "expected": true
+  },
+  {
+    "title": "El 5G causa enfermedades graves, según estudios secretos",
+    "text": "Documentos filtrados muestran relación entre tecnología 5G y enfermedades neurodegenerativas.",
+    "expected": true
+  },
+  {
+    "title": "Lanzan campaña global para reducir el uso de plásticos de un solo uso",
+    "text": "Organizaciones ecologistas y gobiernos promueven alternativas sostenibles al plástico convencional.",
+    "expected": false
+  },
+  {
+    "title": "Ecuador y Perú refuerzan cooperación en seguridad fronteriza",
+    "text": "Ambos países acordaron operativos conjuntos para prevenir el contrabando y otros delitos.",
+    "expected": false
+  },
+  {
+    "title": "Lanzan campaña global para reducir el uso de plásticos de un solo uso",
+    "text": "Organizaciones ecologistas y gobiernos promueven alternativas sostenibles al plástico convencional.",
+    "expected": false
+  },
+  {
+    "title": "El 5G causa enfermedades graves, según estudios secretos",
+    "text": "Documentos filtrados muestran relación entre tecnología 5G y enfermedades neurodegenerativas.",
+    "expected": true
+  },
+  {
+    "title": "Beber cloro es recomendado por expertos para purificar el cuerpo",
+    "text": "Un grupo de expertos sugiere que el cloro elimina impurezas y virus del cuerpo humano.",
+    "expected": true
+  },
+  {
+    "title": "Descubren nueva especie de rana en la Amazonía",
+    "text": "Científicos identificaron una nueva especie de rana con colores brillantes y comportamiento nocturno.",
+    "expected": false
+  },
+  {
+    "title": "La NASA confirma que el Sol se apagará en 2026",
+    "text": "Una declaración oficial indica que el Sol dejará de emitir luz en menos de dos años.",
+    "expected": true
+  },
+  {
+    "title": "Inflación en América Latina disminuye por segundo trimestre consecutivo",
+    "text": "Los indicadores económicos muestran una leve recuperación tras las políticas fiscales aplicadas.",
+    "expected": false
+  },
+  {
+    "title": "ONU anuncia plan mundial para el desarrollo sostenible",
+    "text": "La ONU presentó una estrategia para reducir la pobreza y proteger el medioambiente hacia 2030.",
+    "expected": false
+  },
+  {
+    "title": "Ecuador y Perú refuerzan cooperación en seguridad fronteriza",
+    "text": "Ambos países acordaron operativos conjuntos para prevenir el contrabando y otros delitos.",
+    "expected": false
+  },
+  {
+    "title": "ONU anuncia plan mundial para el desarrollo sostenible",
+    "text": "La ONU presentó una estrategia para reducir la pobreza y proteger el medioambiente hacia 2030.",
+    "expected": false
+  },
+  {
+    "title": "ONU anuncia plan mundial para el desarrollo sostenible",
+    "text": "La ONU presentó una estrategia para reducir la pobreza y proteger el medioambiente hacia 2030.",
+    "expected": false
+  },
+  {
+    "title": "El gobierno planea implantar chips en las vacunas",
+    "text": "Se filtró que las nuevas vacunas incluirán microchips para controlar a la población.",
+    "expected": true
+  },
+  {
+    "title": "Inflación en América Latina disminuye por segundo trimestre consecutivo",
+    "text": "Los indicadores económicos muestran una leve recuperación tras las políticas fiscales aplicadas.",
+    "expected": false
+  },
+  {
+    "title": "ONU anuncia plan mundial para el desarrollo sostenible",
+    "text": "La ONU presentó una estrategia para reducir la pobreza y proteger el medioambiente hacia 2030.",
+    "expected": false
+  },
+  {
+    "title": "El gobierno planea implantar chips en las vacunas",
+    "text": "Se filtró que las nuevas vacunas incluirán microchips para controlar a la población.",
+    "expected": true
+  },
+  {
+    "title": "Lanzan campaña global para reducir el uso de plásticos de un solo uso",
+    "text": "Organizaciones ecologistas y gobiernos promueven alternativas sostenibles al plástico convencional.",
+    "expected": false
+  }
+]
